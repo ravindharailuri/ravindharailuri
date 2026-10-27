@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
 <h2 align="center">I'm Ravindhar Reddy Ailuri</h2>
-<h3 align="center">⏳ Cloud / DevOps / Platform / SRE / DevSecOps / Platform / Observability → 🔐 AiOps → 🛡️ AWS Security Governance </h3>
+<h3 align="center">⏳ Cloud / DevOps / Platform / SRE / DevSecOps / Platform / Observability → 🔐 AiOps </h3>
 
 <p align="center">
   <em>🎯 "Explore 🔥 and Explode 💣 with knowledge"</em>
