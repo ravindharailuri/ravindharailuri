@@ -2,6 +2,7 @@
 
 <h3 align="center">
   DevOps | DevSecOps | Platform Engineering | SRE
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devops/devops-original.svg" width="35" alt="DevOps" />
 </h3>
 
 <p align="center">
