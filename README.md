@@ -18,7 +18,7 @@
 
 ## 👨🏻‍💻 About Me
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" length= "100">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 
 - 💻 Passionate about **DevOps, DevSecOps, Platform Engineering and Site Reliability Engineering (SRE)**.
 - ☁️ Focused on **AWS & Microsoft Azure**, cloud-native infrastructure, automation and scalability.
