@@ -32,3 +32,27 @@
 - 🎯 Committed to continuous learning, practical implementation and engineering excellence.
 
 ---
+
+## 📬 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ravindharailuri/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ravindhar.techcareer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://dinq.me/myportfolio">
+    <img src="https://img.shields.io/badge/DINQ_Portfolio-6C3CE1?style=for-the-badge&logoColor=white" alt="DINQ Portfolio" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RavindharAiluri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <em>🤝 Connect • Collaborate • Learn • Grow 🚀</em>
+</p>
