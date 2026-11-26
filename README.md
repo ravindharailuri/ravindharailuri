@@ -18,7 +18,10 @@
 
 ## 👨🏻‍💻 About Me
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="300"> 
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="300"> <p align="center">
+  <img src="./devops-workflow.gif" width="100%"
+       alt="AI Powered DevOps Workflow" />
+</p>
 </p>
 
 - 💻 Passionate about **DevOps, DevSecOps, Platform Engineering and Site Reliability Engineering (SRE)**.
