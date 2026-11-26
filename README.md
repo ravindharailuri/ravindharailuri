@@ -18,7 +18,7 @@
 
 ## 👨🏻‍💻 About Me
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="510" height="300"> 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="700" height="300"> 
 </p>
 
 - 💻 Passionate about **DevOps, DevSecOps, Platform Engineering and Site Reliability Engineering (SRE)**.
