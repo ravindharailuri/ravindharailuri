@@ -16,16 +16,21 @@
   <em>Continuous Learning 🎯. Continuous Improvement 📈.</em> 
 </p>
 
-## 👨🏻‍💻 About Me
-
+<!-- Coder GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-       alt="Coder GIF" width="400" height="250" />
-  <img src="https://raw.githubusercontent.com/ravindharailuri/github-assets/main/devops-workflow.gif"
-       alt="DevOps Workflow" width="400" height="250" />
+       alt="Coder GIF" width="500" height="300" />
 </p>
 
+<!-- DevOps Workflow and Responsibilities -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ravindharailuri/github-assets/main/devops-workflow.gif"
+       alt="DevOps Workflow" width="400" height="250" />
+  <img src="https://raw.githubusercontent.com/ravindharailuri/github-assets/main/devops-responsibilities.gif"
+       alt="DevOps Responsibilities" width="400" height="250" />
+</p>
 
+## 👨🏻‍💻 About Me
 - 💻 Passionate about **DevOps, DevSecOps, Platform Engineering and Site Reliability Engineering (SRE)**.
 - ☁️ Focused on **AWS & Microsoft Azure**, cloud-native infrastructure, automation and scalability.
 - ⚙️ Hands-on experience with **Infrastructure as Code, Configuration Management, CI/CD, Containerization and GitOps**.
