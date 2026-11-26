@@ -18,7 +18,7 @@
 
 ## 👨🏻‍💻 About Me
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="300"> <p align="center"> <img src="./devops-workflow.gif" alt="DevOps Infinity Loop" width="100" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="300"> <p align="center"> <img src="https://raw.githubusercontent.com/ravindharailuri/github-assets/main/devops-workflow.gif" alt="DevOps Workflow" width="100%" />
   
 </p>
 </p>
