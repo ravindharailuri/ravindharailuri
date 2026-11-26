@@ -18,15 +18,13 @@
 
 ## 👨🏻‍💻 About Me
 
- <p align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-       alt="Coder GIF" width="48%" />
+       alt="Coder GIF" width="400" height="250" />
   <img src="https://raw.githubusercontent.com/ravindharailuri/github-assets/main/devops-workflow.gif"
-       alt="DevOps Workflow" width="48%" />
+       alt="DevOps Workflow" width="400" height="250" />
 </p>
-  
-</p>
-</p>
+
 
 - 💻 Passionate about **DevOps, DevSecOps, Platform Engineering and Site Reliability Engineering (SRE)**.
 - ☁️ Focused on **AWS & Microsoft Azure**, cloud-native infrastructure, automation and scalability.
