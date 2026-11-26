@@ -18,7 +18,7 @@
 
 ## 👨🏻‍💻 About Me
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="510" height="300"> <img src="https://media.giphy.com/media/1dLpY1tUwvNAgJdTZT/giphy.gif" alt="Bear GIF" width="320" height="300" /><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="150" height="auto" />
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="520" height="300"> <img src="https://media.giphy.com/media/1dLpY1tUwvNAgJdTZT/giphy.gif" alt="Bear GIF" width="320" height="300" /><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="150" height="auto" />
 
 </p>
 
